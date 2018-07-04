@@ -1,8 +1,4 @@
 <Version: 101.00>
 <End of Version>
 # Start Version
-
-<Version: 101.01>
-/data/test.zip https://wordpress.org/latest.zip
-<End of Version>
 #Test Update
