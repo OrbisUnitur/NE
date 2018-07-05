@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"WarriorM_Battler","characterIndex":0,"characterName":"Warrior","classId":1,"equips":[1,1,2,3,9,8,4,5,6,7],"faceIndex":0,"faceName":"Warrior","traits":[],"initialLevel":1,"maxLevel":40,"name":"","nickname":"Mestral","note":"","profile":""},
+{"id":2,"battlerName":"SpellcasterF_Battler","characterIndex":0,"characterName":"Spellcaster","classId":4,"equips":[6,0,2,3,9,8,4,5,6,7],"faceIndex":0,"faceName":"Spellcaster","traits":[],"initialLevel":1,"maxLevel":40,"name":"","nickname":"Atalanthe","note":"","profile":""},
+{"id":3,"battlerName":"AssasinChar","characterIndex":0,"characterName":"AssasinChar","classId":3,"equips":[2,1,2,3,9,8,4,5,6,7],"faceIndex":0,"faceName":"Assasin","traits":[],"initialLevel":1,"maxLevel":40,"name":"","nickname":"Salnara","note":"","profile":""},
+{"id":4,"battlerName":"SentinelM_Battler","characterIndex":0,"characterName":"Sentinel","classId":2,"equips":[5,1,2,3,9,8,4,5,6,7],"faceIndex":0,"faceName":"Sentinel","traits":[],"initialLevel":1,"maxLevel":40,"name":"","nickname":"Light Of The East","note":"","profile":""},
+{"id":5,"battlerName":"WarlockM_Battler","characterIndex":0,"characterName":"Warlock","classId":5,"equips":[4,0,2,3,9,8,4,5,6,7],"faceIndex":0,"faceName":"Warlock","traits":[],"initialLevel":1,"maxLevel":40,"name":"","nickname":"Barion","note":"","profile":""}
+]
